@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  /* text-align: center; */
+  padding: 0;
+  background-color: #2c3e50; /* Set the background color for the entire screen */
+  color: aqua;
+
+}
+
+#main_container {
+  height: 96vh;
+  margin-bottom: 0;
+  background-color: #2c3e50; /* You can keep this or adjust it accordingly */
+  border-radius: 10px;
+  overflow: hidden;
+  color: aqua;
+}
