@@ -13,3 +13,4 @@ db.on('error', console.error.bind(console, 'Error connecting to the database'));
 db.once('open', function(){
     console.log('Database connection successful');
 });
+module.exports = mongoose; // Export the mongoose instance
