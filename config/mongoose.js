@@ -1,7 +1,8 @@
 const mongoose = require('mongoose');
 
 // Connecting to the MongoDB database
-mongoose.connect('mongodb://0.0.0.0:27017/habit_tracker_db');
+const url="mongodb+srv://amal:suvarnam123@cluster0.rc1clne.mongodb.net/?retryWrites=true&w=majority";
+mongoose.connect(url);
 
 const db = mongoose.connection;
 
