@@ -5,7 +5,7 @@
 Clone the project from GitHub:
 
 
-git clone https://github.com/your-username/habit-tracker.git
+git clone: https://github.com/amal2000-cse/Habit-Tracker-new
 Navigate to the project directory:
 
 To start the application, use the following command:
